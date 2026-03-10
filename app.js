@@ -94,4 +94,5 @@ form.addEventListener("submit",function(event){
     else{
         quizContainer.innerHTML=`your final score is : ${score}`;
     }
+
 });
